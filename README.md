@@ -7,8 +7,9 @@ My name is Rojan, I'm from Nepal🇳🇵. I graduated from Whitworth University 
 - 👀 I’m looking for the next problem to solve. 
 - 💬 Check out the senior capstone project I completed for the client after gradutaion [here](https://github.com/rojandangol/weekendwarriors) 
 - 📫 How to reach me: rojandangol712@gmail.com
-- ⚡ Fun fact: I can bench 225 lbs. 
-  
+- ⚡ Fun fact: I can bench 225 lbs.
+- 🟩 Gitlab has a more satisfying activity graph (https://gitlab.com/rojandangol712) 
+
 <!--
 **rojandangol/rojandangol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
