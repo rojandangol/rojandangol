@@ -1,5 +1,14 @@
-## Hi there 👋
+## Namaste 🙏
 
+My name is Rojan, I'm from Nepal🇳🇵. I graduated from Whitworth University with a CS degree. 
+
+- 🔭 I’m currently working on Every Shot Counts , building an AI Powered Basketball Training App to improve your shooting game. 
+- 🌱 I’m currently learning how to further optimze AI token usage.
+- 👀 I’m looking for the next problem to solve. 
+- 💬 Check out the senior capstone project I completed for the client after gradutaion [here](https://github.com/rojandangol/weekendwarriors) 
+- 📫 How to reach me: rojandangol712@gmail.com
+- ⚡ Fun fact: I can bench 225 lbs. 
+  
 <!--
 **rojandangol/rojandangol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
