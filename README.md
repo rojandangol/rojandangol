@@ -2,8 +2,7 @@
 
 My name is Rojan, I'm from Nepal🇳🇵. I graduated from Whitworth University with a CS degree. 
 
-- 🔭 I’m currently working on Every Shot Counts , building an AI Powered Basketball Training App to improve your shooting game. 
-- 🌱 I’m currently learning how to further optimze AI token usage.
+- 🔭 I’m currently working as a Full Stack AI Engineer @ TAG.  
 - 👀 I’m looking for the next problem to solve. 
 - 💬 Check out the senior capstone project I completed for the client after gradutaion [here](https://github.com/rojandangol/weekendwarriors) 
 - 📫 How to reach me: rojandangol712@gmail.com
